@@ -19,10 +19,3 @@ data_file 'DLC_ITYP_REQUEST' 'stream/pumpkin.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/pumpkin2.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/pumpkin3.ytyp'
 data_file 'DLC_ITYP_REQUEST' 'stream/pumpkin4.ytyp'
-  
-escrow_ignore {
-    "stream/*.ymap",
-    "stream/*.ydr",
-    "stream/*.ytd",
-    "stream/*.ytyp"
-}  
